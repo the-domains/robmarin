@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.3817204
 color:
-  saturation: 0.5179211
-  brandStrength: 0
-  lightness: 0.5179211
+  saturation: 1
+  brandStrength: 0.202509
+  lightness: 1
   brandColors:
     - '#3B4043'
     - '#770303'
     - '#8A9198'
     - '#210101'
     - '#E1E0E0'
-  rhythmicContrast: 0
-typography_spectrum: 0.3817204
-layout_spectrum: 0.001792115
+  rhythmicContrast: 1
+layout_spectrum: 0.9569892
 name: RobMarin
